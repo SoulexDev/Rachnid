@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3457e5a376e22c499fea2e50c00f968, type: 3}
+  m_Name: LeverQuest
+  m_EditorClassIdentifier: 
+  questGoals:
+  - goalIdentity: {fileID: 11400000, guid: 37239fbedfc06a6488dc562b127513e5, type: 2}
+    description: Pull the levers
+    _currentAmount: 0
+    requiredAmount: 3
+  - goalIdentity: {fileID: 11400000, guid: 382f654d7fa8d57418fa2c106de2792d, type: 2}
+    description: Find the levers
+    _currentAmount: 0
+    requiredAmount: 1
