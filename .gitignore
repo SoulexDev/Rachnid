@@ -88,6 +88,11 @@ ExportedObj/
 *.opendb
 *.VC.db
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+*.log
+*.dwlt
+>>>>>>> main
 =======
 *.log
 *.dwlt
@@ -116,5 +121,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+<<<<<<< HEAD
 Rachnid/UserSettings/Layouts/default-2021.dwlt
 Rachnid/UserSettings/EditorUserSettings.asset
+=======
+>>>>>>> main
+*.log
