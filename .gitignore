@@ -406,7 +406,17 @@ ExportedObj/
 *.log
 *.dwlt
 =======
+<<<<<<< HEAD
 >>>>>>> parent of ffe6dad (bruh)
+=======
+*.log
+*.dwlt
+>>>>>>> main
+=======
+*.log
+*.dwlt
+>>>>>>> main
+>>>>>>> parent of 373df53 (Update .gitignore)
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -431,6 +441,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+<<<<<<< HEAD
 
 ### VisualStudio ###
 
@@ -615,3 +626,8 @@ crashlytics-build.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,unity,visualstudio,git
 *.log
+=======
+*.log
+=======
+>>>>>>> main
+>>>>>>> parent of 373df53 (Update .gitignore)
