@@ -161,3 +161,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 155012.361261 seconds.
+  path: Assets/Audio/LoudClip.mixer
+  artifactKey: Guid(acd9b1cc58d206c408652876a74498c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/LoudClip.mixer using Guid(acd9b1cc58d206c408652876a74498c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c089678c8362b2f8ac03bfe62bcf37d7') in 0.073232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.747309 seconds.
+  path: Assets/Scenes/Blockouts
+  artifactKey: Guid(488db48cbcd0c0a43888013ba0818b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Blockouts using Guid(488db48cbcd0c0a43888013ba0818b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b79cc5835186bdc857866e2e8d0408c') in 0.007354 seconds 
