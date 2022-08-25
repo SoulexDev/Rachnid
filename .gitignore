@@ -608,4 +608,3 @@ crashlytics-build.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,unity,visualstudio,git
 *.log
-*.log
